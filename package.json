@@ -4,6 +4,7 @@
 	"description":"A server-side application with Node.js",
 	"keywords":["node" , "server", "js", "asynchronous", "freecodecamp"],
 	"license":"BSD",
+	"version":"1.2.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
