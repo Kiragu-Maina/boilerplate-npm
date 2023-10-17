@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author":"Kiragu Maina",
+	"description":"A server-side application with Node.js",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
